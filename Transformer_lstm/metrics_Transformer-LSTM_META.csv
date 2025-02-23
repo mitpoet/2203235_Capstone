@@ -1,0 +1,2 @@
+Model,Stock,RMSE,MAE,MAPE,R2
+Transformer-LSTM,META,16.6921,12.5904,4.9623,0.96

@@ -1,0 +1,2 @@
+Model,Stock,RMSE,MAE,MAPE,R2
+Transformer-LSTM,MSFT,11.6624,9.0551,3.066,0.9348
