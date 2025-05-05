@@ -59,13 +59,13 @@ def fetch_stock_data(symbol, api_key, output_file, start_date, end_date):
     print(f"Data fetched, filtered, saved, and moved to {final_path}")
 
 # Example usage with custom date range
-# fetch_stock_data(
-#     symbol="ORCL",
-#     api_key=API,
-#     output_file="ORCL.csv",
-#     start_date="2014-01-01",
-#     end_date="2024-01-31"
-# )
+fetch_stock_data(
+    symbol="ORCL",
+    api_key=API,
+    output_file="ORCL.csv",
+    start_date="2014-01-01",
+    end_date="2024-01-31"
+)
 
 
 
