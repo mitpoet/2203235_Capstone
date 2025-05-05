@@ -6,7 +6,7 @@ This capstone project explores stock price prediction using hybrid models such a
 
 [Watch the demo video on YouTube](https://youtu.be/kpocSXYlyy8)
 
-> Click the thumbnail above to watch a short demo of the project.
+> Click the link above to watch a short demo of the project.
 
 ---
 
