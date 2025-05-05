@@ -2,9 +2,9 @@
 
 This capstone project explores stock price prediction using hybrid models such as **CNN-LSTM**, **Transformer-LSTM**, and **XGBoost-LSTM**. It builds on the paper [Predicting Stock Market Time-Series Data using CNN-LSTM Neural Network Model](https://arxiv.org/abs/2305.14378) and aims to improve prediction accuracy across multiple datasets.
 
-## 🎥 Demo Video
+## Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/kpocSXYlyy8)
+[Watch the demo video on YouTube](https://youtu.be/kpocSXYlyy8)
 
 > Click the thumbnail above to watch a short demo of the project in action.
 
